@@ -1,9 +1,33 @@
 text,label
-Dear HDFC Bank customer, your account has been credited with Rs.10,000.,HDFC Bank
-Dear Federal Bank customer, your account has been debited with Rs.500.,Federal Bank
-Thank you for using HDFC Bank Mobile Banking.,HDFC Bank
-Welcome to Federal Bank Mobile Banking.,Federal Bank
-Your HDFC Bank Credit Card has been approved. Limit: Rs.50,000.,HDFC Bank
-Your Federal Bank Debit Card has been blocked due to suspicious activity.,Federal Bank
-Your HDFC Bank Credit Card payment of Rs.10,000 has been processed successfully.,HDFC Bank
-Your Federal Bank Debit Card has been unblocked. Please contact us if you have any further questions.,Federal Bank
+"Dear HDFC Bank customer, your account has been credited with Rs.10,000.",HDFC Bank
+"Dear Federal Bank customer, your account has been debited with Rs.500.",Federal Bank
+"Thank you for using HDFC Bank Mobile Banking.",HDFC Bank
+"Welcome to Federal Bank Mobile Banking.",Federal Bank
+"Your HDFC Bank Credit Card has been approved. Limit: Rs.50,000.",HDFC Bank
+"Your Federal Bank Debit Card has been blocked due to suspicious activity.",Federal Bank
+"Your HDFC Bank Credit Card payment of Rs.10,000 has been processed successfully.",HDFC Bank
+"Your Federal Bank Debit Card has been unblocked. Please contact us if you have any further questions.",Federal Bank
+"Dear HDFC Bank customer, your account has been debited with Rs.500 for a transaction on Amazon.com.",HDFC Bank
+"Dear Federal Bank customer, your account has been credited with Rs.1,000 for a salary deposit.",Federal Bank
+"Thank you for using HDFC Bank Mobile Banking. You have successfully transferred Rs.1,000 to your friend's account.",HDFC Bank
+"Welcome to Federal Bank Mobile Banking. You have successfully paid your mobile bill of Rs.500.",Federal Bank
+"Your HDFC Bank Credit Card statement for the month of August is now available. Please log in to your account to view your statement.",HDFC Bank
+"Your Federal Bank Debit Card has been expired. Please request a new card from your nearest branch.",Federal Bank
+"Your HDFC Bank Credit Card payment of Rs.10,000 is due on September 10th. Please make your payment on time to avoid late fees.",HDFC Bank
+"Your Federal Bank Debit Card has been replaced with a new card. Your new card number is 1234-5678-9012-3456.",Federal Bank
+"Dear HDFC Bank customer, your account has been credited with Rs.1,000 for a refund from Flipkart.com.",HDFC Bank
+"Dear Federal Bank customer, your account has been debited with Rs.500 for a transaction on Paytm.",Federal Bank
+"Thank you for using HDFC Bank Mobile Banking. You have successfully activated your HDFC Bank Debit Card.",HDFC Bank
+"Welcome to Federal Bank Mobile Banking. You have successfully changed your Federal Bank Debit Card PIN.",Federal Bank
+"Your HDFC Bank Credit Card limit has been increased to Rs.75,000.",HDFC Bank
+"Your Federal Bank Debit Card has been upgraded to a contactless card.",Federal Bank
+"Your HDFC Bank Credit Card payment of Rs.10,000 has been processed successfully. Your new balance is Rs.5,000.",HDFC Bank
+"Your Federal Bank Debit Card has been blocked due to three incorrect PIN entries. Please contact us to unblock your card.",Federal Bank
+"Dear HDFC Bank customer, your account has been debited with Rs.500 for a transaction on Netflix.com.",HDFC Bank
+"Dear Federal Bank customer, your account has been credited with Rs.1,000 for a tax refund.",Federal Bank
+"Thank you for using HDFC Bank Mobile Banking. You have successfully transferred Rs.1,000 to your father's account.",HDFC Bank
+"Welcome to Federal Bank Mobile Banking. You have successfully booked a flight ticket for Rs.5,000.",Federal Bank
+"Your HDFC Bank Credit Card statement for the month of September is now available. Please log in to your account to view your statement.",HDFC Bank
+"Your Federal Bank Debit Card has been expired. Please request a new card from your nearest branch.",Federal Bank
+"Your HDFC Bank Credit Card payment of Rs.10,000 is due on October 10th. Please make your payment on time to avoid late fees.",HDFC Bank
+"Your Federal Bank Debit Card has been replaced with a new card. Your new card number is 5678-9012-3456-7890.",Federal Bank
